@@ -1,0 +1,7 @@
+C:\Users\Yevheniia\source\repos\numguess\obj\Debug\numguess.csprojAssemblyReference.cache
+C:\Users\Yevheniia\source\repos\numguess\obj\Debug\numguess.csproj.CoreCompileInputs.cache
+C:\Users\Yevheniia\source\repos\numguess\bin\Debug\numguess.exe.config
+C:\Users\Yevheniia\source\repos\numguess\bin\Debug\numguess.exe
+C:\Users\Yevheniia\source\repos\numguess\bin\Debug\numguess.pdb
+C:\Users\Yevheniia\source\repos\numguess\obj\Debug\numguess.exe
+C:\Users\Yevheniia\source\repos\numguess\obj\Debug\numguess.pdb
